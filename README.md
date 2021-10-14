@@ -1,11 +1,14 @@
-# Women Who Code Python
-
-__*Less is More: How to Code Python in One Line*__  
+# Women Who Code Python: __*Less is More: How to Code Python in One Line*__  
 
 
 ### Beginner Session (Oct 19)
 * [slides]()
-* [notebook]()
+* [notebook]()  
+
+### Intermediate Session I   
+* [slides]()
+* [notebook]()  
+
 
 
 
