@@ -4,22 +4,22 @@
 
 
 ### <span style="color:lightblue"> Beginner Session :hot_pepper:(Oct 19)
-* [slides]()
+* slides()
 * [notebook](https://colab.research.google.com/github/nuageklow/wwc_onelinecoding/blob/master/colab_notebooks/WWCode_Beginner_python_one_liner_session.ipynb)  
 </span>
 
 ### <span style="color:lightskyblue">Intermediate Session I  :hot_pepper::hot_pepper:
-* [slides]()
-* [notebook]()  
+* slides()
+* notebook()  
 </span>
 
 
 ### <span style="color:royalblue">Intermediate Session II :hot_pepper::hot_pepper::hot_pepper:   
-* [slides]()
-* [notebook]()  
+* slides())
+* notebook()  
 </span>
 
 ### <span style="color:midnightblue">Advanced Session :hot_pepper::hot_pepper::hot_pepper::hot_pepper:
-* [slides]()
-* [notebook]()  
+* slides()
+* notebook()  
 </span>
